@@ -1,1 +1,1 @@
-# Eesti keelne WHMCS.
+# Eesti keelne WHMCS
